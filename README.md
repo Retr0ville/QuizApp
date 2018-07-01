@@ -1,5 +1,5 @@
 # QuizApp
-Quiz App submission for the ALC 7 days of code challenge
+Quiz App submission for the GoogleAfricaScholarshipChallenge #7DaysOfCodeChallenge.
 
 My quiz app was created to test users knowledge of some basic information pertaining to the Java programming language. 
 It included 10 questions, that is, five questions that accepts radio button inputs,
