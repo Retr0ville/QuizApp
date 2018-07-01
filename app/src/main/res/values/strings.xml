@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="intro">This quiz tests your knowledge of Basic java facts and terminologies</string>
+    <string name="Q1">(1.) In java, everything goes into a…</string>
+    <string name="Q2">(2.) Blank lines, space input and tab input are known as…</string>
+    <string name="Q3">(3.) Types such as int , float , double and char are…</string>
+    <string name="Q4">(4.) Keyword public is an access…</string>
+    <string name="Q5">(5.) A method is invoked with a(n)…</string>
+    <string name="Q6">(6.) The following are string representations</string>
+    <string name="chkBox1_1"> \"CHM101\"</string>
+    <string name="chkBox1_2">47</string>
+    <string name="chkBox1_3">\"1934\"</string>
+    <string name="Q7">(7.) Which variable names are reserved by Java</string>
+    <string name="chkBox2_1">double</string>
+    <string name="chkBox2_2">tap</string>
+    <string name="chkBox2_3">switch</string>
+    <string name="Q8">(8.) Select the core concepts of OOPS programming</string>
+    <string name="chkBox3_1">Inheritance</string>
+    <string name="chkBox3_2">Polymorphism</string>
+    <string name="chkBox3_3">Generics</string>
+    <string name="Q9">(9.) A method that returns no type is declared as…</string>
+    <string name="Q10">(10.) Can there be two main methods in a Java class</string>
+</resources>
