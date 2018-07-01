@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Quiz App</string>
+    <string name="app_name">quizZy</string>
     <string name="intro">This quiz tests your knowledge of Basic java facts and terminologies</string>
     <string name="Q1">(1.) In java, everything goes into a…</string>
     <string name="Q2">(2.) Blank lines, space input and tab input are known as…</string>
